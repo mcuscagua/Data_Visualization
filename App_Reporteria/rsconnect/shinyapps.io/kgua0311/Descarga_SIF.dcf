@@ -1,0 +1,13 @@
+name: Descarga_SIF
+title: Descarga_SIF
+username:
+account: kgua0311
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 361599
+bundleId: 1431778
+url: https://kgua0311.shinyapps.io/Descarga_SIF/
+when: 1529080511.34335
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/Thumbs.db
